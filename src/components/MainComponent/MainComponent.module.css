@@ -89,7 +89,7 @@
   flex-direction: column;
   gap: 20px;
 
-  padding: 0 50px;
+  padding: 0 55px;
 }
 .date {
   color: var(--color);
@@ -136,8 +136,8 @@
   position: absolute;
   left: 0;
   top: 0;
-  transform: translate(calc(-50% - 51px), -50%);
-  z-index: -1;
+  transform: translate(calc(-50% - 56px), -50%);
+  z-index: 1;
 }
 .user2 .curve {
   left: auto;

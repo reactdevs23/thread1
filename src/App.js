@@ -19,7 +19,8 @@ function App() {
       name: "@username ",
       nameColor: "#000",
       userIcon: <User bg="#2970FF" color="#fff" />,
-      icon: <PointIcon bg="#2970FF" color="#B2CCFF" />,
+
+      icon: <PointIcon bg="#875BF7" color="#DDD6FE" />,
       data: [
         {
           date: "02/22/2024  16:24",
@@ -48,7 +49,7 @@ function App() {
       name: "@username",
       nameColor: "#000",
       userIcon: <User bg="#875BF7" color="#fff" />,
-      icon: <PointIcon bg="#875BF7" color="#DDD6FE" />,
+      icon: <PointIcon bg="#2970FF" color="#B2CCFF" />,
       data: [
         {
           date: "02/22/2024  16:30",
